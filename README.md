@@ -103,7 +103,7 @@ LIMIT 1;
 ```
 ### Retorno
 
-|nome_idondicado|ano_cerimonia|
+|nome_do_indicado|ano_cerimonia|
 |:---:|:---:|
 Janet Gaynor | 1928
 ---
